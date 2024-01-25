@@ -1,41 +1,84 @@
-<!DOCTYPE html5>
-
+<!DOCTYPE html>
 <html lang="pt-br">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>D4rkSantana Portifolio</title>
-        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" type="text/css" href="styles.css">
+        <title>Emerson Portifolio</title>
     </head>
     <body>
+        <!-- Cabeçalho do site com titulo e logo -->
         <header>
-            <h1>Portifolio D4rkSantana aka. esilva-s</h1>
+            <img id="logo" src="imgs/logo.png" alt="cruz ansata logo">
+            <div id="titulo">
+                <h1>Emerson Silva S Portifolio</h1>
+                <h3>vulgo D4rkSantana</h3>
+            </div>
         </header>
-
+        <!-- Barra com paginas especificas -->
         <nav>
             <ul>
-                <li><a href="#">Inicio</a></li>
-                <li><a href="#">Programação</a></li>
-                <li><a href="#">"Arte"sanato</a></li>
-                <li><a href="#">Game Designe</a></li>
-                <li><a href="#">Outros Projetos</a></li>
+                <li><a href="pages/dev.html"></a>Programação</li>
+                <li><a href="pages/art.html">Arte'sanato</a></li>
+                <li><a href="pages/gm.html">Game Design</a></li>
+                <li><a href="pages/others.html">Outros Projetos</a></li>
             </ul>
         </nav>
-        <main>
-            <section>
-                <h2>Seção 1</h2>
-                <p>Conteúdo da seção 1...</p>
-            </section>
-
-            <section>
-                <h2>Seção 2</h2>
-                <p>Conteúdo da seção 2...</p>
-            </section>
-        </main>
-
+        <!-- Conteduo da pag, com barra lateral e projetos em destaques -->
+        <div id="content">
+            <!-- Sobre mim -->
+            <div id="sobre_mim">
+                <img src="imgs/perfil.png" alt="foto de perfil">
+                <ul id="fatos_sobre_mim">
+                    <li>São Paulo - Brasil</li>
+                    <li>25 Anos</li>
+                    <li>Marxista Leninista</li>
+                    <li>Engenharia de Software</li>
+                    <li>Cadete na Ecole 42 SP</li>
+                    <li>Artesão</li>
+                    <li>Game Designer</li>
+                    <li>Mestre de RPG de Mesa</li>
+                </ul>
+                <div id="Contatos">
+                    <a href="">
+                        <img src="imgs/github.png">
+                    </a>
+                    <a href="">
+                        <img src="imgs/linkdin.png">
+                    </a>
+                    <a href="">
+                        <img src="imgs/email.png">
+                    </a>
+                    <a href="">
+                        <img src="imgs/pinterest.png">
+                    </a>
+                </div>
+            </div>
+            <!-- Destaques-->
+            <div id="destaques">
+                <div id="destaque_membro">
+                    <a href="">
+                        <img src="">
+                    </a>
+                    <a href="">projeto x</a>
+                </div>
+                <div id="destaque_membro">
+                    <a href="">
+                        <img src="">
+                    </a>
+                    <a href="">projeto x</a>
+                </div>
+                <div id="destaque_membro">
+                    <a href="">
+                        <img src="">
+                    </a>
+                    <a href="">projeto x</a>
+                </div>
+            </div>
+        </div>
+        <!-- Rodapé -->
         <footer>
-            <p>&copy; 2024 Minha Página. Todos os direitos reservados.</p>
+            <h3>Todos os direitos reservados</h3>
         </footer>
-        <!-- <script src="script.js"></script> -->
     </body>
 </html>

@@ -1,55 +1,45 @@
-/* styles.css */
-
-/* Estilo para o corpo da página */
-
-body {
-    font-family: 'Arial', sans-serif;
-    color: #F5F5F5;
+body{
+    width: 100%;
+    height: 100%;
     background-color: #4B0082;
-    margin: 10;
-    padding: 10;
 }
 
 header {
-    background-color: #1C1C1C;
-    padding: 5px;
+    width: 100%;
+    height: 20%;
+    background-color: black;
+    display: flex;
+}
+
+#logo {
+    width: 20%;
+    height: auto;
+}
+
+#titulo {
+    width: 80%;
+    color: bisque;
+    text-align: center;
+    display:inline;
+    justify-content: center;
 }
 
 nav {
-    background-color: #1C1C1C;
+    height: 5%;
+    background-color: brown;
 }
-
-nav ul {
-    list-style-type: none;
+nav > ul {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    list-style: none;
 }
-
-nav li {
-    display: inline-block;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    margin-right: 5px;
-    margin-left: 5px;
-}
-
-/* Estilo para o cabeçalho (h1)
-h1 {
-    color: #333;
-    text-align: center;
+nav > ul > li {
     padding: 20px;
-    background-color: #66ccff;
+    margin: 5px;
+    background-color: burlywood;
 }
-
-p {
-    color: #666;
-    line-height: 1.5;
-    margin-bottom: 20px;
+nav > ul > li > a {
+    text-decoration: none;
+    color: inherit;
 }
-
-.exemplo-container {
-    width: 80%;
-    margin: 20px auto;
-    padding: 15px;
-    background-color: #fff;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-*/
