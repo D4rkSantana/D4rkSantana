@@ -1,7 +1,7 @@
 <h1 align="center">Hello. i am Emerson Silva S</h1>
 <h3 align="center">I'm a Brazilian Software Engineering student at 42 - São Paulo, lover of arts, handcraft and DIYs.</h3>
 
-- 🔭 I’m currently working on [CPP from 42 - SãoPaulo](https://github.com/D4rkSantana/CPP)
+- 🔭 I’m currently working on [web_server from 42 - SãoPaulo](https://github.com/D4rkSantana/web_server)
 
 - 🌱 I’m currently learning **C/C++, Python and Arduino**
 
