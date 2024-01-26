@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emerson-santana-272752262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emerson-santana-272752262" height="30" width="40" /></a>
-<a href="https://instagram.com/@aioka.artes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@aioka.artes" height="30" width="40" /></a>
+<a href="https://instagram.com/aioka.artes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@aioka.artes" height="30" width="40" /></a>
 <a href="https://discord.gg/326397103628877825" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="326397103628877825" height="30" width="40" /></a>
 </p>
 
